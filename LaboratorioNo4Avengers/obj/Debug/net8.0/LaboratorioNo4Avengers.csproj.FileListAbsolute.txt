@@ -1,0 +1,14 @@
+D:\Documentos\UMG INGENIERIA EN SISTEMAS\3ER SEMESTRE\PROGRAMACION 1\LaboratorioNo4Avengers\LaboratorioNo4Avengers\bin\Debug\net8.0\LaboratorioNo4Avengers.exe
+D:\Documentos\UMG INGENIERIA EN SISTEMAS\3ER SEMESTRE\PROGRAMACION 1\LaboratorioNo4Avengers\LaboratorioNo4Avengers\bin\Debug\net8.0\LaboratorioNo4Avengers.deps.json
+D:\Documentos\UMG INGENIERIA EN SISTEMAS\3ER SEMESTRE\PROGRAMACION 1\LaboratorioNo4Avengers\LaboratorioNo4Avengers\bin\Debug\net8.0\LaboratorioNo4Avengers.runtimeconfig.json
+D:\Documentos\UMG INGENIERIA EN SISTEMAS\3ER SEMESTRE\PROGRAMACION 1\LaboratorioNo4Avengers\LaboratorioNo4Avengers\bin\Debug\net8.0\LaboratorioNo4Avengers.dll
+D:\Documentos\UMG INGENIERIA EN SISTEMAS\3ER SEMESTRE\PROGRAMACION 1\LaboratorioNo4Avengers\LaboratorioNo4Avengers\bin\Debug\net8.0\LaboratorioNo4Avengers.pdb
+D:\Documentos\UMG INGENIERIA EN SISTEMAS\3ER SEMESTRE\PROGRAMACION 1\LaboratorioNo4Avengers\LaboratorioNo4Avengers\obj\Debug\net8.0\LaboratorioNo4Avengers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\UMG INGENIERIA EN SISTEMAS\3ER SEMESTRE\PROGRAMACION 1\LaboratorioNo4Avengers\LaboratorioNo4Avengers\obj\Debug\net8.0\LaboratorioNo4Avengers.AssemblyInfoInputs.cache
+D:\Documentos\UMG INGENIERIA EN SISTEMAS\3ER SEMESTRE\PROGRAMACION 1\LaboratorioNo4Avengers\LaboratorioNo4Avengers\obj\Debug\net8.0\LaboratorioNo4Avengers.AssemblyInfo.cs
+D:\Documentos\UMG INGENIERIA EN SISTEMAS\3ER SEMESTRE\PROGRAMACION 1\LaboratorioNo4Avengers\LaboratorioNo4Avengers\obj\Debug\net8.0\LaboratorioNo4Avengers.csproj.CoreCompileInputs.cache
+D:\Documentos\UMG INGENIERIA EN SISTEMAS\3ER SEMESTRE\PROGRAMACION 1\LaboratorioNo4Avengers\LaboratorioNo4Avengers\obj\Debug\net8.0\LaboratorioNo4Avengers.dll
+D:\Documentos\UMG INGENIERIA EN SISTEMAS\3ER SEMESTRE\PROGRAMACION 1\LaboratorioNo4Avengers\LaboratorioNo4Avengers\obj\Debug\net8.0\refint\LaboratorioNo4Avengers.dll
+D:\Documentos\UMG INGENIERIA EN SISTEMAS\3ER SEMESTRE\PROGRAMACION 1\LaboratorioNo4Avengers\LaboratorioNo4Avengers\obj\Debug\net8.0\LaboratorioNo4Avengers.pdb
+D:\Documentos\UMG INGENIERIA EN SISTEMAS\3ER SEMESTRE\PROGRAMACION 1\LaboratorioNo4Avengers\LaboratorioNo4Avengers\obj\Debug\net8.0\LaboratorioNo4Avengers.genruntimeconfig.cache
+D:\Documentos\UMG INGENIERIA EN SISTEMAS\3ER SEMESTRE\PROGRAMACION 1\LaboratorioNo4Avengers\LaboratorioNo4Avengers\obj\Debug\net8.0\ref\LaboratorioNo4Avengers.dll
